@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h2> I'm Shahriyar</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -78,7 +78,7 @@
 
 <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:itshahriyar@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
