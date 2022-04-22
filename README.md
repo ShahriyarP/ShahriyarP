@@ -8,7 +8,6 @@ Three years of programming experience and two years of experience in Front-end p
 
 * 🌍  I'm based in Iran born in February 1998
 * ✉️  You can contact me at [itshahriyar@yahoo.com](mailto:itshahriyar@yahoo.com)
-* ⚡  Born in 1998
 
 ### Skills
 
