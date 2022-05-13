@@ -31,4 +31,4 @@ Three years of programming experience and two years of experience in Front-end p
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/itshahriyar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itshahriyar&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/itsshahriyar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itshahriyar&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
