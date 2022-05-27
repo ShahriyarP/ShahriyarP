@@ -6,7 +6,7 @@ Front-end Developer
 
 Three years of programming experience and two years of experience in Front-end programming. I started with HTML and now coding is one of my biggest hobbies.
 
-* 🌍  I'm based in Iran born in February 1998
+* 🌍  I'm based in Iran
 * ✉️  You can contact me at [itshahriyar@yahoo.com](mailto:itshahriyar@yahoo.com)
 
 ### Skills
