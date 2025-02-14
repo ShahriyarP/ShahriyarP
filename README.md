@@ -1,4 +1,11 @@
-Hi there!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Profile!;I'm+a+MERN+Stack+Developer)](https://git.io/typing-svg)
+
+
+<div align="center">
+  <img height="300px" alt="GIF" 
+       src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966"
+       style="border-radius: 10px; display: block;">
+</div>
 
 My name is Shahriar. Bachelor's degree in IT and has I have several years of experience in programming. I am very interested in new technology and reading programming articles is one of my hobbies.
 
