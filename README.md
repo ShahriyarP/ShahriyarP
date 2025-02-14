@@ -1,4 +1,4 @@
-Hi, welcome to my Github Account!
+Hi, welcome to my Github Account! https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif
 =================================================================================================================================
 
 Shahriar Parhizkarnia
